@@ -15,14 +15,12 @@ I'm a data science and machine learning enthusiast with a passion for transformi
 - **Libraries/Frameworks**: Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
 
 ## Projects
-- 🧪 **GloBox Food and Drink Banner Experiment**: An A/B testing analysis.
-- 🎯 **Winning Jeopardy**: A statistical testing project.
-- ❤️ **Predicting Heart Disease**: A supervised machine learning analysis.
-- 🧩 **Credit Card Customer Segmentation**: An unsupervised machine learning analysis.
-- 🌾 **Cultivating Success**: Leveraging machine learning to optimize crop selection.
-- 🌦️ **Developing a Predictive Machine Learning Pipeline for London's Climate**.
-
-*Note: Project links will be added soon.*
+- 🧪 **[GloBox Food and Drink Banner Experiment](https://github.com/cherryaugusta/GloBox_A-B_Testing_Analysis)**: An A/B testing analysis.
+- 🎯 **[Winning Jeopardy](https://github.com/cherryaugusta/Winning-Jeopardy)**: A statistical testing project.
+- ❤️ **[Predicting Heart Disease](https://github.com/cherryaugusta/Predicting-Heart-Disease)**: A supervised machine learning analysis.
+- 🧩 **[Credit Card Customer Segmentation](https://github.com/cherryaugusta/Credit-Card-Customer-Segmentation)**: An unsupervised machine learning analysis.
+- 🌾 **[Cultivating Success](https://github.com/cherryaugusta/Cultivating-Success)**: Leveraging machine learning to optimize crop selection.
+- 🌦️ **[Developing a Predictive Machine Learning Pipeline for London's Climate](https://github.com/cherryaugusta/Machine-Learning-Pipeline-for-London-s-Climate)**. 
 
 ## Connect with Me
 - 📧 Email: cherryaugusta@gmail.com
