@@ -25,6 +25,7 @@ I'm a data science and machine learning enthusiast with a passion for transformi
 ## Connect with Me
 - 📧 Email: cherryaugusta@gmail.com
 - 💼 [LinkedIn](linkedin.com/in/cherry-augusta-3957a916)
+- 📊 [Tableau](https://public.tableau.com/app/profile/cherry.augusta/vizzes)
 
 ## Fun Facts
 - 🤖 I'm a big fan of artificial intelligence chatbots.
