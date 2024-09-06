@@ -13,7 +13,7 @@ I am a passionate **Data Scientist** and **Machine Learning Specialist**, with a
 - Python, SQL
 
 ### **Tools**:
-- Spreadsheets, Jupyter Notebook, PyCharm, VS Code, Tableau, and AI chatbots,
+- Spreadsheets, Jupyter Notebook, PyCharm, VS Code, Tableau, AI chatbots
 
 ### **Libraries/Frameworks**:
 - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, SciPy, Regular Expressions
