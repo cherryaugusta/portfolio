@@ -4,7 +4,7 @@ I am a passionate **Data Scientist** and **Machine Learning Specialist**, with a
 
 ## 🎓 Education & Certifications
 - **Data Analytics Certification**: Completed an intensive **Data Analytics Programme** at **Masterschool** (05/2023–08/2024), with a focus on statistics, spreadsheets, SQL, Tableau, and Python.
-- **Certified Project Officer (CPO)**: Awarded certification by the **Institute of Project Management** (05/2023).
+- **Certified Project Officer**: Awarded certification by the **Institute of Project Management** (05/2023).
 - **PhD in Religion, Politics, and International Relations**: **King’s College London** (04/2014–07/2021). Developed advanced research and analytical skills through comprehensive academic work.
 - **Ongoing Professional Development**: Continuously enhancing expertise in **Python**, **SQL**, **MLOps**, and **machine learning** through platforms such as **DataCamp**, **Dataquest**, **Udacity**, and **Udemy**.
 
