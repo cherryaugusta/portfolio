@@ -58,7 +58,7 @@ I am keen to transition into roles such as **Data Scientist** or **Machine Learn
 ## 👥 Let's Connect
 I’m open to networking, collaboration, and career opportunities. Feel free to reach out:
 - 📧 Email: **cherryaugusta@gmail.com**
-- 💼 **[LinkedIn](linkedin.com/in/cherry-augusta-3957a916)**: Let’s connect for professional updates and networking.
+- 💼 **[LinkedIn](www.linkedin.com/in/cherry-augusta-3957a916)**: Let’s connect for professional updates and networking.
 - 📊 **[Tableau Portfolio](https://public.tableau.com/app/profile/cherry.augusta/vizzes)**: Explore my interactive data visualisations.
 
 ## 📈 Fun Facts
