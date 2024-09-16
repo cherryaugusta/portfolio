@@ -41,19 +41,19 @@ I'm excited to take on new challenges and grow within an innovative and fast-pac
 
 ### ❤️ **[Predicting Heart Disease](https://github.com/cherryaugusta/Predicting-Heart-Disease)**
 - Built machine learning models using Python to predict heart disease risk, focusing on data cleaning, feature selection, and model evaluation.
-- **Key Tools**: Python (Pandas, NumPy, Scikit-learn, Matplotlib), Git, GitHub
+- **Key Tools**: Python (Pandas, NumPy, Scikit-learn, Matplotlib)
 
 ### 📊 **[Credit Card Customer Segmentation](https://github.com/cherryaugusta/Credit-Card-Customer-Segmentation)**
 - Applied K-Means clustering to segment customers based on spending behavior, using data visualization to present insights.
-- **Key Tools**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), Git, GitHub
+- **Key Tools**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 
 ### 🌾 **[Cultivating Success](https://github.com/cherryaugusta/Cultivating-Success)**
 - Used machine learning models, including Random Forest and Gradient Boosting, to optimize agricultural crop selection and improve outcomes.
-- **Key Tools**: Python (Pandas, Scikit-learn), Git, GitHub
+- **Key Tools**: Python (Pandas, Scikit-learn)
 
 ### 🌦️ **[London Climate Prediction](https://github.com/cherryaugusta/Machine-Learning-Pipeline-for-London-s-Climate)**
 - Developed a regression model to predict temperature trends in London using historical climate data, tracking model performance using **MLflow**.
-- **Key Tools**: Python (Pandas, NumPy, Scikit-learn, MLflow), Git, GitHub
+- **Key Tools**: Python (Pandas, NumPy, Scikit-learn, MLflow)
 
 ## 🚀 Career Aspirations
 I’m eager to transition fully into **Software Development** and contribute to building efficient, scalable solutions in a collaborative environment. I’m particularly excited to work in a setting where innovation, teamwork, and cutting-edge technology are key drivers of success. I look forward to applying my skills in Python, version control, and **software development practices** while continuing to learn and grow through real-world projects.
