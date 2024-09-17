@@ -1,6 +1,6 @@
 # Hello, I'm Cherry Augusta 👋
 
-I am an **aspiring Software Developer** passionate about problem-solving and building efficient, impactful solutions using **Python** and **SQL**. I have a background in data analysis and machine learning but am now focused on transitioning into software development. I am eager to contribute to a collaborative team where I can further develop my skills in programming, software engineering practices, and continuous learning.
+I am an **aspiring Software Developer and Machine Learning Engineer** passionate about problem-solving and building efficient, impactful solutions using **Python** and **SQL**. I have a background in data analysis and machine learning and am now focused on transitioning into software development and machine learning engineering. I am eager to contribute to a collaborative team where I can further develop my skills in programming, software engineering practices, machine learning, and full-stack data science.
 
 I'm excited to take on new challenges and grow within an innovative and fast-paced environment.
 
