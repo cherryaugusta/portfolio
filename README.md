@@ -1,31 +1,29 @@
 # Hello, I'm Cherry Augusta 👋
 
-I am an **aspiring Software Developer and Machine Learning Engineer** passionate about problem-solving and building efficient, impactful solutions using **Python** and **SQL**. I have a background in data analysis and machine learning and am now focused on transitioning into software development and machine learning engineering. I am eager to contribute to a collaborative team where I can further develop my skills in programming, software engineering practices, machine learning, and full-stack data science.
+I am an aspiring **Full-Stack Software Developer**, **Data Scientist**, and **Machine Learning Specialist** with a strong passion for solving real-world problems through data-driven and scalable software solutions. Leveraging a background in **data analysis** and **machine learning**, I am now expanding my expertise in **software development** to build efficient, impactful applications. My goal is to apply my technical skills to contribute to innovative projects in collaborative, fast-paced environments.
 
-I'm excited to take on new challenges and grow within an innovative and fast-paced environment.
-
-## 🎓 Education & Certifications
-- **Data Analytics Certification**: Completed an intensive **Data Analytics Programme** at **Masterschool** (05/2023–08/2024), focusing on Python, SQL, Tableau, and statistical analysis.
+## 🎓 **Education & Certifications**
+- **Data Analytics Programme**: Completed at **Masterschool** (05/2023–08/2024), focusing on Python, SQL, Tableau, and machine learning.
 - **Certified Project Officer**: Certification awarded by the **Institute of Project Management** (05/2023).
-- **PhD in Religion, Politics, and International Relations**: **King’s College London** (04/2014–07/2021). Developed advanced research, analytical, and problem-solving skills.
+- **PhD in Religion, Politics, and International Relations**: **King’s College London** (04/2014–07/2021).
 
-## 🛠️ Skills & Tools
+## 🛠️ **Skills & Tools**
 ### **Programming Languages**:
 - Python, SQL
 
-### **Tools & Platforms**:
+### **Frameworks & Tools**:
 - Git, GitHub, Jupyter Notebook, PyCharm, VS Code, Tableau
 
+### **Data Science & ML Libraries**:
+- Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Statsmodels, SciPy
+
 ### **Development Practices**:
-- Test-Driven Development, Pair Programming, Version Control (Git/GitHub)
+- Version Control, Agile Methodologies, Continuous Learning
 
-### **Libraries/Frameworks**:
-- Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Regular Expressions
-
-## 💼 Professional Experience
-### **Aspiring Software Developer**
-- **Focus**: Currently enhancing my programming skills and deepening my understanding of **software development practices** through hands-on projects and self-study. I am particularly interested in **test-driven development**, **pair programming**, and **agile methodologies**.
-- **Objective**: Seeking opportunities where I can apply my technical skills, collaborate with experienced developers, and grow within a team-oriented environment.
+## 💼 **Professional Experience**
+### Aspiring Full-Stack Developer, Data Scientist, and Machine Learning Specialist
+- Currently enhancing my **software development and Machine Learning** skills through project-based learning, focusing on **Python development**, **version control**, and integrating **machine learning** into full-stack applications.
+- Passionate about combining **data science** with software development to create efficient, scalable applications.
 
 ## 🌟 Notable Projects
 
@@ -55,19 +53,16 @@ I'm excited to take on new challenges and grow within an innovative and fast-pac
 - Developed a regression model to predict temperature trends in London using historical climate data, tracking model performance using **MLflow**.
 - **Key Tools**: Python (Pandas, NumPy, Scikit-learn, MLflow)
 
-## 🚀 Career Aspirations
-I’m eager to transition fully into **Software Development** and contribute to building efficient, scalable solutions in a collaborative environment. I’m particularly excited to work in a setting where innovation, teamwork, and cutting-edge technology are key drivers of success. I look forward to applying my skills in Python, version control, and **software development practices** while continuing to learn and grow through real-world projects.
+## 🚀 **Career Aspirations**
+I am eager to contribute as a **Full-Stack Developer**, **Data Scientist**, or **Machine Learning Engineer** in a setting where collaboration, innovation, and cutting-edge technology are central. I aim to continuously grow in both software development and machine learning to create impactful solutions.
 
 ## 👥 Let's Connect
 I’m open to networking, collaboration, and career opportunities. Feel free to reach out:
 - 📧 Email: **cherryaugusta@gmail.com**
 - 💼 **[LinkedIn](https://www.linkedin.com/in/cherry-augusta-3957a916)**: Let’s connect for professional updates and networking.
+- 📊 **[Tableau Portfolio](https://public.tableau.com/app/profile/cherry.augusta/vizzes)**: Explore my interactive data visualisations.
 
-## ⚽ Fun Facts
-- 🏀 I have a keen interest in how **technology** is shaping the future of **sports** through data analysis and performance insights.
-- ♟️ I enjoy playing **chess** to sharpen my strategic thinking and problem-solving skills.
-- 🎮 I’m fascinated by the intersection of technology and creativity, especially in how software can transform industries.
-
-## 📝 Additional Information
-- **Location**: Open to hybrid, remote, or onsite opportunities in London, United Kingdom.
-- **Availability**: Actively seeking software development roles or opportunities to learn and grow within a development team.
+## 📈 Fun Facts
+- 🤖 I’m captivated by **AI chatbots** and their potential to transform human-computer interaction.
+- ♟️ I enjoy playing **chess** to sharpen my strategic thinking.
+- 🌍 I’m passionate about **learning new languages** and studying **history**, particularly the intersection of technology and global cultures.
