@@ -1,6 +1,6 @@
 # Hello, I'm Cherry Augusta 👋
 
-I am an aspiring **Full-Stack Software Developer**, **Data Scientist**, and **Machine Learning Specialist** with a strong passion for solving real-world problems through data-driven and scalable software solutions. Leveraging a background in **data analysis** and **machine learning**, I am now expanding my expertise in **software development** to build efficient, impactful applications. My goal is to apply my technical skills to contribute to innovative projects in collaborative, fast-paced environments.
+I am a **Programming**, **Data**, **Software**, and **Machine Learning** enthusiast with a strong passion for solving real-world problems through data-driven and software solutions. Leveraging a background in **data analysis** and **machine learning**, I am now expanding my expertise in **software development** to build efficient, impactful applications. My goal is to apply my technical skills to contribute to innovative projects in collaborative, fast-paced environments.
 
 ## 🎓 **Education & Certifications**
 - **Data Analytics Programme**: Completed at **Masterschool** (05/2023–08/2024), focusing on Python, SQL, Tableau, and machine learning.
@@ -21,7 +21,7 @@ I am an aspiring **Full-Stack Software Developer**, **Data Scientist**, and **Ma
 - Version Control, Agile Methodologies, Continuous Learning
 
 ## 💼 **Professional Experience**
-### Aspiring Full-Stack Developer, Data Scientist, and Machine Learning Specialist
+### Aspiring Full-Stack Data Scientist, Machine Learning Specialist, and Software Engineer
 - Currently enhancing my **software development and Machine Learning** skills through project-based learning, focusing on **Python development**, **version control**, and integrating **machine learning** into full-stack applications.
 - Passionate about combining **data science** with software development to create efficient, scalable applications.
 
