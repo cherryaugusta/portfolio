@@ -1,6 +1,6 @@
 # Hello, I'm Cherry Augusta 👋
 
-I am a **Programming**, **Data**, **Software**, and **Machine Learning** enthusiast with a strong passion for solving real-world problems through data-driven and software solutions. Leveraging a background in **data analysis** and **machine learning**, I am now expanding my expertise in **software development** to build efficient, impactful applications. My goal is to apply my technical skills to contribute to innovative projects in collaborative, fast-paced environments.
+I am a **Programming**, **Data**, and **Machine Learning** enthusiast with a strong passion for solving real-world problems through data-driven, software, and artificial intelligence solutions. Leveraging a background in **data analytics**, **data science** and **machine learning**, I am now expanding my expertise in **software development** to build efficient, impactful applications. My goal is to apply my technical skills to contribute to innovative projects in collaborative, fast-paced environments.
 
 ## 🎓 **Education & Certifications**
 - **Data Analytics Programme**: Completed at **Masterschool** (05/2023–08/2024), focusing on Python, SQL, Tableau, and machine learning.
