@@ -1,6 +1,6 @@
 # Hello, I'm Cherry Augusta 👋
 
-I am a **Programming**, **Data**, and **Machine Learning** enthusiast with a strong passion for solving real-world problems through data-driven, software, and artificial intelligence solutions. Leveraging a background in **data analytics**, **data science** and **machine learning**, I am now expanding my expertise in **software development** to build efficient, impactful applications. My goal is to apply my technical skills to contribute to innovative projects in collaborative, fast-paced environments.
+I am a **Programming**, **Data**, and **Machine Learning** enthusiast with a strong passion for solving real-world problems through data-driven, software, and artificial intelligence solutions. Leveraging a background in **data analytics**, **data science** and **machine learning**. My goal is to apply my technical and non-technical skills to contribute to innovative projects in collaborative, fast-paced environments.
 
 ## 🎓 **Education & Certifications**
 - **Data Analytics Programme**: Completed at **Masterschool** (05/2023–08/2024), focusing on Python, SQL, Tableau, and machine learning.
@@ -54,7 +54,7 @@ I am a **Programming**, **Data**, and **Machine Learning** enthusiast with a str
 - **Key Tools**: Python (Pandas, NumPy, Scikit-learn, MLflow)
 
 ## 🚀 **Career Aspirations**
-I am eager to contribute as a **Full-Stack Developer**, **Data Scientist**, or **Machine Learning Engineer** in a setting where collaboration, innovation, and cutting-edge technology are central. I aim to continuously grow in both software development and machine learning to create impactful solutions.
+I am eager to contribute as a **Data Analyst**, **Data Scientist**, or **Machine Learning Engineer** in a setting where collaboration, innovation, and cutting-edge technology are central. I aim to continuously grow in both data analytics and machine learning to create impactful solutions.
 
 ## 👥 Let's Connect
 I’m open to networking, collaboration, and career opportunities. Feel free to reach out:
