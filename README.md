@@ -18,7 +18,7 @@ I am a **Programming**, **Data**, and **Machine Learning** enthusiast with a str
 - Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Statsmodels, SciPy
 
 ### **Development Practices**:
-- Version Control, Agile Methodologies, Continuous Learning
+- Version Control, Agile Methodologies, CI/CI (DevOps/MLOps mindset)
 
 ## 💼 **Professional Experience**
 ### Aspiring Full-Stack Data Scientist, Machine Learning Specialist, and Software Engineer
