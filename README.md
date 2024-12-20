@@ -1,9 +1,9 @@
 # Hello, I'm Cherry Augusta 👋
 
-I am a **Programming**, **Data**, and **Machine Learning** enthusiast with a strong passion for solving real-world problems through data-driven, software, and artificial intelligence solutions. Leveraging a background in **data analytics**, **data science** and **machine learning**. My goal is to apply my technical and non-technical skills to contribute to innovative projects in collaborative, fast-paced environments.
+I am an aspiring **DevOps Engineer** and **Software Developer** with a passion for solving complex problems and delivering efficient solutions. Leveraging a strong foundation in **Python programming** and a keen **DevOps mindset**, I am focused on developing scalable systems and contributing to innovative projects.
 
 ## 🎓 **Education & Certifications**
-- **Data Analytics Programme**: Completed at **Masterschool** (05/2023–08/2024), focusing on Python, SQL, Tableau, and machine learning.
+- **Data Analytics Programme**: Completed at **Masterschool** (05/2023–08/2024), specializing in Python, SQL, and data analysis.
 - **Certified Project Officer**: Certification awarded by the **Institute of Project Management** (05/2023).
 - **PhD in Religion, Politics, and International Relations**: **King’s College London** (04/2014–07/2021).
 
@@ -11,19 +11,16 @@ I am a **Programming**, **Data**, and **Machine Learning** enthusiast with a str
 ### **Programming Languages**:
 - Python, SQL
 
-### **Frameworks & Tools**:
-- Git, GitHub, Jupyter Notebook, PyCharm, VS Code, Tableau
+### **DevOps & Development Practices**:
+- Linux, Git, GitHub, Agile Methodologies, CI/CD Pipelines, DevOps Mindset
 
-### **Data Science & ML Libraries**:
-- Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Statsmodels, SciPy
-
-### **Development Practices**:
-- Version Control, CI/CI (Agile, DevOps/MLOps mindset)
+### **Data Science & Analysis Libraries**:
+- Pandas, NumPy, Matplotlib, Seaborn
 
 ## 💼 **Professional Experience**
-### Aspiring Full-Stack Data Scientist, Machine Learning Specialist, and Software Engineer
-- Currently enhancing my **software development and Machine Learning** skills through project-based learning, focusing on **Python development**, **version control**, and integrating **machine learning** into full-stack applications.
-- Passionate about combining **data science** with software development to create efficient, scalable applications.
+### Aspiring DevOps Engineer and Software Developer
+- Enhancing skills in **Python development**, **problem-solving**, and **Linux-based systems** through project-based learning.
+- Committed to developing expertise in DevOps workflows to optimize deployment processes and improve system reliability.
 
 ## 🌟 Notable Projects
 
@@ -54,7 +51,7 @@ I am a **Programming**, **Data**, and **Machine Learning** enthusiast with a str
 - **Key Tools**: Python (Pandas, NumPy, Scikit-learn, MLflow)
 
 ## 🚀 **Career Aspirations**
-I am eager to contribute as a **Data Analyst**, **Data Scientist**, or **Machine Learning Engineer** in a setting where collaboration, innovation, and cutting-edge technology are central. I aim to continuously grow in both data analytics and machine learning to create impactful solutions.
+I am eager to contribute as a **DevOps Engineer**, leveraging my proficiency in Python, problem-solving abilities, and dedication to continuous improvement. I aim to thrive in collaborative and innovative environments while contributing to impactful solutions.
 
 ## 👥 Let's Connect
 I’m open to networking, collaboration, and career opportunities. Feel free to reach out:
