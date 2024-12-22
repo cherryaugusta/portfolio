@@ -1,6 +1,6 @@
 # Hello, I'm Cherry Augusta 👋
 
-I am an aspiring **DevOps Engineer** and **Software Developer** with a passion for solving complex problems and delivering efficient solutions. Leveraging a strong foundation in **Python programming** and a keen **DevOps mindset**, I am focused on developing scalable systems and contributing to innovative projects.
+I am an aspiring **Python/DevOps Engineer** and **Software Developer** with a passion for solving complex problems and delivering efficient solutions. Leveraging a strong foundation in **Python programming** and a keen **DevOps mindset**, I am focused on developing scalable systems and contributing to innovative projects.
 
 ## 🎓 **Education & Certifications**
 - **Data Analytics Programme**: Completed at **Masterschool** (05/2023–08/2024), specializing in Python, SQL, and data analysis.
@@ -51,7 +51,7 @@ I am an aspiring **DevOps Engineer** and **Software Developer** with a passion f
 - **Key Tools**: Python (Pandas, NumPy, Scikit-learn, MLflow)
 
 ## 🚀 **Career Aspirations**
-I am eager to contribute as a **DevOps Engineer**, leveraging my proficiency in Python, problem-solving abilities, and dedication to continuous improvement. I aim to thrive in collaborative and innovative environments while contributing to impactful solutions.
+I am eager to contribute as a **Python/DevOps Engineer**, leveraging my proficiency in Python, problem-solving abilities, and dedication to continuous improvement. I aim to thrive in collaborative and innovative environments while contributing to impactful solutions.
 
 ## 👥 Let's Connect
 I’m open to networking, collaboration, and career opportunities. Feel free to reach out:
