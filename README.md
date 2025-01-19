@@ -60,6 +60,5 @@ I’m open to networking, collaboration, and career opportunities. Feel free to 
 - 📊 **[Tableau Portfolio](https://public.tableau.com/app/profile/cherry.augusta/vizzes)**: Explore my interactive data visualisations.
 
 ## 📈 Fun Facts
-- 🤖 I’m captivated by **AI chatbots** and their potential to transform human-computer interaction.
 - ♟️ I enjoy playing **chess** to sharpen my strategic thinking.
 - 🌍 I’m passionate about **learning new languages** and studying **history**, particularly the intersection of technology and global cultures.
