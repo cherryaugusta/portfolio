@@ -1,71 +1,76 @@
-# Hello, I'm Cherry Augusta 👋
+# Cherry Augusta
 
-I am a passionate **Data Scientist** and **Machine Learning Specialist**, with a strong foundation in **data analytics**, **machine learning**, and **statistical modelling**. I focus on extracting data-driven insights to tackle complex business challenges using **Python**, **SQL**, and a range of analytical tools. Whether you're seeking support for ongoing data initiatives or need expertise in machine learning projects, I'm eager to contribute to your team’s success.
+Data & AI professional in transition, combining a doctoral research background with self-directed, project-based training in data analytics, statistics, and machine learning. Focused on building rigorous, evidence-based analysis using Python, SQL, and Tableau, with the same standards of accuracy and structured reasoning developed over a decade of academic and administrative work.
 
-## 🎓 Education & Certifications
-- **Data Analytics Certification**: Completed an intensive **Data Analytics Programme** at **Masterschool** (05/2023–08/2024), with a focus on statistics, spreadsheets, SQL, Tableau, and Python.
-- **Certified Project Officer**: Awarded certification by the **Institute of Project Management** (05/2023).
-- **PhD in Religion, International Relations, and Politics**: **King’s College London** (04/2014–07/2021). Developed advanced research and analytical skills through comprehensive academic work.
-- **Ongoing Professional Development**: Continuously enhancing expertise in **Python**, **SQL**, **MLOps**, and **machine learning** through platforms such as **DataCamp**, **Dataquest**, **Udacity**, and **Udemy**.
+London, United Kingdom
+[LinkedIn](https://www.linkedin.com/in/cherry-augusta-3957a916) · [GitHub](https://github.com/cherryaugusta) · [Tableau Public](https://public.tableau.com/app/profile/cherry.augusta/vizzes) · cherryaugusta@gmail.com
 
-## 🛠️ Skills & Tools
-### **Programming Languages**:
-- Python, SQL
+---
 
-### **Tools**:
-- Spreadsheets, Jupyter Notebook, PyCharm, VS Code, Tableau, AI chatbots
+## About
 
-### **Libraries/Frameworks**:
-- Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, SciPy, Regular Expressions
+I am a career switcher moving into data science and machine learning. Since 2023, I have completed an intensive Data Analytics Programme and independently built a portfolio of applied statistics and machine learning projects, alongside parallel training in Python and SQL fundamentals.
 
-## 💼 Professional Experience
-### **Aspiring Data Scientist / Machine Learning Specialist**
-- **Focus**: Currently transitioning into a career in **Data Science** and **Machine Learning** through focused self-study, hands-on projects, and upskilling in cutting-edge technologies.
-- **Objective**: Preparing for a professional role where I can apply my skills to solve real-world data problems and contribute to impactful machine learning projects.
+This is self-directed, project-based work rather than paid professional data science experience — I'm upfront about that distinction, and I'm looking for a first professional role where I can build on it.
 
-## 🌟 Notable Projects
-Here are some projects that showcase my technical skills and problem-solving abilities:
+---
 
-### 🧪 **[GloBox Food and Drink Banner Experiment](https://github.com/cherryaugusta/GloBox_A-B_Testing_Analysis)**
-- Conducted A/B testing to optimise marketing strategies using advanced statistical analysis and data visualisation.
-- The study assessed two key outcomes: the banner’s impact on conversion rates and average user spending, with consideration of novelty effects and power analysis.
-- **Key Tools**: Python (Pandas, NumPy, SciPy, Statsmodels), Tableau, SQL, Spreadsheet (Ms Excel)
+## Skills
 
-### 🎯 **[Winning Jeopardy](https://github.com/cherryaugusta/Winning-Jeopardy)**
-- Analysed historical data from the TV show Jeopardy to uncover patterns that offer contestants a strategic advantage.
-- **Key Tools**: Python (Pandas, NumPy, Regular Expressions, Random, SciPy)
+**Languages:** Python, SQL
 
-### ❤️ **[Predicting Heart Disease](https://github.com/cherryaugusta/Predicting-Heart-Disease)**
-- Developed machine learning models, including Logistic Regression and Random Forest, alongside a K-Nearest Neighbours classifier, to predict the likelihood of heart disease in new patients.
-- **Key Tools**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+**Data Science Libraries:** Pandas, NumPy, SciPy, Statsmodels, scikit-learn, Matplotlib, Seaborn, MLflow
 
-### 📊 **[Credit Card Customer Segmentation](https://github.com/cherryaugusta/Credit-Card-Customer-Segmentation)**
-- Utilised K-Means clustering to segment credit card customers based on their spending patterns and behaviours.
-- **Key Tools**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+**Statistical Methods:** Hypothesis testing (z-tests, t-tests), A/B testing, power analysis, confidence intervals, regression analysis, K-Means clustering, Random Forest, Gradient Boosting, K-Nearest Neighbours, Logistic Regression
 
-### 🌾 **[Cultivating Success](https://github.com/cherryaugusta/Cultivating-Success)**
-- Optimised crop selection using machine learning models (Random Forest, Gradient Boosting) to enhance agricultural outcomes, developing multi-class classification models to predict crop types and identify the most critical features contributing to predictive accuracy.
-- **Key Tools**: Python (Pandas, Scikit-learn)
+**Visualisation & Reporting:** Tableau, Microsoft Excel
 
-### 🌦️ **[London Climate Prediction](https://github.com/cherryaugusta/Machine-Learning-Pipeline-for-London-s-Climate)**
-- Developed a machine learning pipeline to forecast London’s climate, with a focus on predicting the mean temperature in Celsius.
-- Experimented with various regression models, utilising a combination of sklearn and MLflow.
-- **Key Tools**: Python (Pandas, NumPy, MLflow, Matplotlib, Seaborn, Scikit-learn)
+**Tools:** Jupyter Notebook, PyCharm, VS Code, Git/GitHub
 
-## 🎯 Career Aspirations
-I am keen to transition into roles such as **Data Scientist** or **Machine Learning Engineer**, where I can leverage my skills to drive business growth through data insights and innovative machine learning solutions.
+**AI Tooling:** Practical, review-first use of AI chatbots (ChatGPT, Claude) for prototyping and analysis support
 
-## 👥 Let's Connect
-I’m open to networking, collaboration, and career opportunities. Feel free to reach out:
-- 📧 Email: **cherryaugusta@gmail.com**
-- 💼 **[LinkedIn](https://www.linkedin.com/in/cherry-augusta-3957a916)**: Let’s connect for professional updates and networking.
-- 📊 **[Tableau Portfolio](https://public.tableau.com/app/profile/cherry.augusta/vizzes)**: Explore my interactive data visualisations.
+---
 
-## 📈 Fun Facts
-- 🤖 I’m captivated by **AI chatbots** and their potential to transform human-computer interaction.
-- ♟️ I enjoy playing **chess** to sharpen my strategic thinking.
-- 🌍 I’m passionate about **learning new languages** and studying **history**, particularly the intersection of technology and global cultures.
+## Selected Projects
 
-## 📝 Additional Information
-- **Location**: Open to hybrid, remote, or onsite opportunities in London, United Kingdom.
-- **Availability**: Actively seeking roles as a **Data Scientist**, **Machine Learning Engineer**, or **Data Analyst**.
+### [GloBox A/B Testing Analysis](https://github.com/cherryaugusta/GloBox_A-B_Testing_Analysis)
+Full A/B test of a promotional banner's effect on conversion rate and spend, built on a three-table SQL schema (users, groups, activity).
+- Ran z-tests and t-tests at 5% significance, finding a statistically significant uplift in conversion rate (Z = 4.17, p < 0.0001, 95% CI excluding zero)
+- Ran a power analysis showing the spend-difference test was underpowered (5% power) against 98.6% power for the conversion-rate result, and named this limitation explicitly rather than overstating the conclusion
+- Broke results down by device, gender, and country, tested for novelty effects over time, and built Tableau dashboards to communicate findings
+- Concluded with a recommendation not to launch without further investigation
+- **Tools:** Python (Pandas, NumPy, SciPy, Statsmodels), SQL, Tableau, Excel
+
+### [London Climate Prediction](https://github.com/cherryaugusta/Machine-Learning-Pipeline-for-London-s-Climate)
+Regression-based pipeline forecasting London's mean temperature, using MLflow to track experiments and model versions.
+- **Tools:** Python (Pandas, NumPy, scikit-learn, MLflow, Matplotlib, Seaborn)
+
+### [Predicting Heart Disease](https://github.com/cherryaugusta/Predicting-Heart-Disease)
+Compared Logistic Regression, Random Forest, and K-Nearest Neighbours classification models to predict heart disease likelihood, weighing interpretability against predictive performance.
+- **Tools:** Python (Pandas, NumPy, scikit-learn, Matplotlib, Seaborn)
+
+### [Credit Card Customer Segmentation](https://github.com/cherryaugusta/Credit-Card-Customer-Segmentation)
+Applied K-Means clustering to segment credit card customers by spending patterns and behaviour.
+- **Tools:** Python (Pandas, NumPy, scikit-learn, Matplotlib, Seaborn)
+
+### [Cultivating Success](https://github.com/cherryaugusta/Cultivating-Success)
+Multi-class classification models (Random Forest, Gradient Boosting) to predict optimal crop selection and identify the most important predictive features.
+- **Tools:** Python (Pandas, scikit-learn)
+
+### [Winning Jeopardy](https://github.com/cherryaugusta/Winning-Jeopardy)
+Exploratory data analysis of historical Jeopardy questions to test hypotheses about recycled content and strategic patterns.
+- **Tools:** Python (Pandas, NumPy, SciPy, Regular Expressions)
+
+---
+
+## Education & Certifications
+
+- **PhD, Religion, International Relations, and Politics** — King's College London, Apr 2014 – Jul 2021
+- **Master of Arts, Political Science (Human Rights and Democracy)**, cum laude, GPA 3.84/4.00 — Universitas Gadjah Mada, Indonesia, with a funded exchange semester at the University of Oslo, Norway | Oct 2009 – Jul 2011
+- **Bachelor of Political Science (International Relations)** — Universitas Padjadjaran, Indonesia | Sep 2002 – May 2006
+- **Data Analytics Programme** — Masterschool, May 2023 – Aug 2024 (statistics, spreadsheets, SQL, Tableau, Python, A/B testing, dashboards)
+- **Software and App Developer Skills Bootcamp** (Level 3, IfATE standard) — Primed Talent, Jan – Mar 2026
+- **Certified Project Officer** — Institute of Project Management, May 2023
+- Ongoing professional development in Python, SQL, and machine learning via DataCamp, Dataquest, Udacity, and Udemy
+
+---
